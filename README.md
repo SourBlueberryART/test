@@ -11,8 +11,8 @@
             margin: 0;
             padding: 0;
             font-family: 'Old Standard TT', serif;
-            background-color: #424242;
-            color: #FFFFFF;
+            background-color: #1A1A1A; /* Darker background */
+            color: #FFFFFF; /* White text */
             display: flex;
             justify-content: center;
             align-items: center;
@@ -22,6 +22,7 @@
         h1 {
             font-size: 3rem;
             text-align: center;
+            color: #FFFFFF; /* White text for header */
         }
     </style>
 </head>
