@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +11,7 @@
             margin: 0;
             padding: 0;
             font-family: 'Playfair Display', serif;
-            background-color: #f0f0f0; /* Optional background color */
+            background-color: #424242; /* Dark gray background */
             display: flex;
             justify-content: center;
             align-items: center;
@@ -19,7 +20,7 @@
 
         h1 {
             font-size: 3rem;
-            color: #2a2a2a;
+            color: #FFFFFF; /* White text for contrast */
             text-align: center;
         }
     </style>
